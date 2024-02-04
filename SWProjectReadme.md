@@ -1,1 +1,0 @@
-The application can provide services to tourists and all people such as providing information about famous landmarks, shopping places, cafes, and handicraft workshops, also providing information about recreational activities and nightlife in the area, as well as ticketing services for the events.
